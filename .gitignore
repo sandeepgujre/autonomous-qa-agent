@@ -1,0 +1,24 @@
+# Maven
+target/
+
+# Generated classpath files
+cp.txt
+classpath.txt
+
+# Generated test reports
+reports/
+
+# Local installers
+*.deb
+
+# IDE / editor files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
